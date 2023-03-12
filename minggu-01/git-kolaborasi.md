@@ -6,9 +6,11 @@ Kontributor harus mem-fork repo upstream author sehingga di repo kontributor mun
     1. Login ke GitHub
     2. Akses repo yang akan di-fork: https://github.com/muhraflesh/project_nuxt
     
-    ![08](./image-8.jpg)
+![01](./image-8.jpg)
     
     3. Pada sisi kanan atas, klik Fork:
+    
+    ![08](./image-8.jpg)
 
     4. Pilih akan ditempatkan di account mana.
 
