@@ -15,6 +15,14 @@ Deploy Some Code - DIY
 
 ![4](diy-4.jpg)
 
-> Click deploy
+> Click connect
+
+![5](diy-5.jpg)
+
 > Approve "Cyclic - Preview" app in github
+
+![6](diy-6.jpg)
+
 > Watch the terminal for your deployment logs
+
+![7](diy-7.jpg)
