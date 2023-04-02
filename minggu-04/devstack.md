@@ -1,8 +1,13 @@
 Install DevStack
 ----------
 > Step 1: Update Ubuntu system
+Masuk ke sistem Ubuntu lalu lakukan update.
 
-![1](diy-1.jpg)
+![1](devstack-01.jpg)
+![2](devstack-02.jpg)
+![3](devstack-03.jpg)
+
+Restart system setelah upgrade
 
 > Step 2: Add Stack User
 
