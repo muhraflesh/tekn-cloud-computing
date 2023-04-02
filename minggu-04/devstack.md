@@ -1,10 +1,13 @@
 Install DevStack
 ----------
 > Step 1: Update Ubuntu system
+
 Masuk ke sistem Ubuntu lalu lakukan update.
 
 ![1](devstack-01.jpg)
+
 ![2](devstack-02.jpg)
+
 ![3](devstack-03.jpg)
 
 Restart system setelah upgrade
